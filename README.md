@@ -1,5 +1,5 @@
 # 🔧 Git and GitHub  
-**Course by @Fireship (YouTube)**  
+**Course notes based on the [Git & GitHub course by @Fireship](https://fireship.io/courses/git/).**  
 
 ---
 
